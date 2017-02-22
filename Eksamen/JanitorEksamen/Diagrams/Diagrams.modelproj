@@ -29,6 +29,15 @@
       <SubType>Content</SubType>
       <DependentUpon>DomainModel.classdiagram</DependentUpon>
     </Content>
+    <Content Include="ModelDefinition\Package1_1257.uml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ModelDefinition\Package2_1257.uml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ModelDefinition\Package_1257.uml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="UMLSequenceDiagram1.sequencediagram">
       <SubType>Content</SubType>
     </Content>

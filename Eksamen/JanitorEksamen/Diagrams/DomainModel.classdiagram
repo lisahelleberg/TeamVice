@@ -1,1 +1,37 @@
-﻿ 
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner" dslVersion="1.0.0.0" Id="aa59b86f-e14f-4d98-bd21-41c2a67d2f7c" name="DomainModel" linkedPackageId="65f67ac8-b36a-40a7-8f2a-17c453a66888" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="c87229e5-b3b5-410d-93d6-5831fb200d89">
+      <profileInstance Id="42a9d412-4890-4c6e-9c8a-1830b028dad6" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="75394519-fe6d-4a6f-b5f1-de975352f6ac">
+      <profileInstance Id="b7d0a5b3-522e-4abe-bed6-037265b91263" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="74ac2ff5-54a9-4602-8276-ccb30b534c60" name="View">
+        <elementDefinition Id="5e30e56d-d6bf-41f7-acda-21dde1b50fdd" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="81441b7a-6e43-4b24-b003-66ac5c040e16" name="View Model">
+        <elementDefinition Id="c8f53b63-5742-4168-99cf-ed4ee32dc70b" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="654ade98-15fb-47df-8a71-ca0d543b9298" name="Model">
+        <elementDefinition Id="f93fd7b6-f470-4da6-9a93-9ef71429a1dd" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+  </packagedElements>
+  <package Id="65f67ac8-b36a-40a7-8f2a-17c453a66888" name="Diagrams">
+    <elementDefinition Id="3f4b823d-64ac-4f65-94ad-3e8f8639a6bd" />
+  </package>
+</logicalClassDesignerModel>

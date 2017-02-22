@@ -1,1 +1,15 @@
-﻿ 
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DomainModel">
+  <logicalClassDesignerModelMoniker Id="aa59b86f-e14f-4d98-bd21-41c2a67d2f7c" />
+  <nestedChildShapes>
+    <packageShape Id="a1eb2e62-a208-4c19-812a-8aae1993fe65" absoluteBounds="0.5, 0.5, 3.25, 1.375" customColor="255, 249, 230" hideQualifiedName="false">
+      <packageMoniker Id="74ac2ff5-54a9-4602-8276-ccb30b534c60" LastKnownName="View" />
+    </packageShape>
+    <packageShape Id="25266db3-4913-4091-b415-db4b3ae825c1" absoluteBounds="0.5, 2.375, 3.25, 1.625" customColor="255, 249, 230" hideQualifiedName="false">
+      <packageMoniker Id="81441b7a-6e43-4b24-b003-66ac5c040e16" LastKnownName="View Model" />
+    </packageShape>
+    <packageShape Id="902b9fbe-2eb9-433f-8a75-cc903182fe04" absoluteBounds="0.5, 4.5, 3.25, 2.25" customColor="255, 249, 230" hideQualifiedName="false">
+      <packageMoniker Id="654ade98-15fb-47df-8a71-ca0d543b9298" LastKnownName="Model" />
+    </packageShape>
+  </nestedChildShapes>
+</logicalClassDesignerDiagram>
